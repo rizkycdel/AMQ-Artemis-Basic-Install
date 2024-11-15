@@ -15,3 +15,14 @@ Persyaratan : OS Centos 9, Java
 4. Create Broker dengan command berikut :
    `./bin/artemis create broker1`
    ![image](https://github.com/user-attachments/assets/410781db-64dc-449d-8cea-47aa1aa8b741)
+5. Setelah Create Broker, masuk kedalam direktori broker1 lalu running broker dengan command berikut :
+   `./bin/artemis run`
+   ![image](https://github.com/user-attachments/assets/9fb15ac6-2e89-4427-8dcc-9004e5aa8036)
+   ![image](https://github.com/user-attachments/assets/deb74d48-347b-44cf-9fd8-f55242f9775d)
+6. Setelah Broker running, akses Dashboard Apache Active MQ dengan masuk browser dan akses link berikut :
+   `http://localhost:8161/console` dan login dengan akses yang sudah dibuat pada langkah 4.
+   ![image](https://github.com/user-attachments/assets/0e2c8e47-e6c7-4ad3-9925-abccfd110ac9)
+   ![image](https://github.com/user-attachments/assets/0a52deb6-8cb1-4d8b-b77e-ec5e44ca5ff2)
+
+
+
