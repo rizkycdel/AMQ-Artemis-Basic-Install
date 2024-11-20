@@ -5,6 +5,8 @@ Persyaratan : OS Centos 9, Java
 ![image](https://github.com/user-attachments/assets/d42aea10-25e6-47dc-b498-90dfd86c0935)
 2. Pastikan sudah terinstall Java, disini saya pakai Java Version 11
 ![image](https://github.com/user-attachments/assets/2ed1b9e2-2c6e-4838-9901-925e522e81ce)
+Setelah Java terinstall jangan lupa untuk menambahkan `PATH` Java pada file `.bashrc` seperti gamabar berikut
+![image](https://github.com/user-attachments/assets/0baa3a61-1af3-4a27-8be1-39408ee77ac8)
 3. Download AMQ Artemis dengan command berikut :
    `wget https://archive.apache.org/dist/activemq/activemq-artemis/2.38.0/apache-artemis-2.38.0-bin.tar.gz`
    ![image](https://github.com/user-attachments/assets/0393c4e4-2246-4fe2-aa3f-5f08b61bc89a)
