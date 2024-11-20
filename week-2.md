@@ -18,4 +18,6 @@ Setelah file selesai di edit, running broker dengan command berikut :
 ![image](https://github.com/user-attachments/assets/b6d07799-ed08-4fdb-b9a5-a1fd6c26cf55)
 ![image](https://github.com/user-attachments/assets/65fff3e5-225c-4885-b772-c12f1446fa00)
 lalu akses dashboard dengan link di atas
+![image](https://github.com/user-attachments/assets/a23eb04c-60e7-41a4-86c1-7bdefaa85457)
+![image](https://github.com/user-attachments/assets/7d8a71f1-c493-4c66-8ddb-b4a300e1e5e8)
 
